@@ -7,6 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.concurrent.TimeUnit;
 
+
 public class MainPageTest {
     private WebDriver driver;
     private MainPage mainPage;
